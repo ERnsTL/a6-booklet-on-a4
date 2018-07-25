@@ -4,7 +4,7 @@ This tool calculates the page number re-ordering for double-sided booklet printi
 
 Compiling:
 
-You need the [Go programming language](https://golang.org/) installed. Set it up proper, esp. ```GOPATH```.
+You need the [Go programming language](https://golang.org/). It is easy to install and packages are available for all major systems; take care to set ```GOPATH``` properly.
 
 ```
 go get github.com/ERnsTL/a6-booklet-on-a4
